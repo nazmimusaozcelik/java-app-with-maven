@@ -72,16 +72,12 @@
       </plugins>
     </pluginManagement>
   </build>
-</project>
-<project ...>
   <repositories>
     <repository>
       <id>maven-group</id>
       <url>http://your-host:8081/repository/maven-group/</url>
     </repository>
   </repositories>
-</project>
-<project ...>
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
